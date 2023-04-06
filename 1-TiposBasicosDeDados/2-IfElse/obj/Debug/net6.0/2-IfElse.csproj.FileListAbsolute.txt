@@ -1,0 +1,15 @@
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\bin\Debug\net6.0\2-IfElse.exe
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\bin\Debug\net6.0\2-IfElse.deps.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\bin\Debug\net6.0\2-IfElse.runtimeconfig.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\bin\Debug\net6.0\2-IfElse.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\bin\Debug\net6.0\2-IfElse.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.csproj.AssemblyReference.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.AssemblyInfoInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.AssemblyInfo.cs
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.csproj.CoreCompileInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\refint\2-IfElse.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\2-IfElse.genruntimeconfig.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\2-IfElse\obj\Debug\net6.0\ref\2-IfElse.dll

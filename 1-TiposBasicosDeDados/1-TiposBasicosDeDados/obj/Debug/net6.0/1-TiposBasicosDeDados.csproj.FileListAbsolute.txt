@@ -1,0 +1,15 @@
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\bin\Debug\net6.0\1-TiposBasicosDeDados.exe
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\bin\Debug\net6.0\1-TiposBasicosDeDados.deps.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\bin\Debug\net6.0\1-TiposBasicosDeDados.runtimeconfig.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\bin\Debug\net6.0\1-TiposBasicosDeDados.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\bin\Debug\net6.0\1-TiposBasicosDeDados.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.csproj.AssemblyReference.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.AssemblyInfoInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.AssemblyInfo.cs
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.csproj.CoreCompileInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\refint\1-TiposBasicosDeDados.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\1-TiposBasicosDeDados.genruntimeconfig.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\1-TiposBasicosDeDados\obj\Debug\net6.0\ref\1-TiposBasicosDeDados.dll

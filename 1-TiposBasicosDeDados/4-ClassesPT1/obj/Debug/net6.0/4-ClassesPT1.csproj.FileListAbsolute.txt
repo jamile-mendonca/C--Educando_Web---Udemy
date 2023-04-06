@@ -1,0 +1,15 @@
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\bin\Debug\net6.0\4-ClassesPT1.exe
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\bin\Debug\net6.0\4-ClassesPT1.deps.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\bin\Debug\net6.0\4-ClassesPT1.runtimeconfig.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\bin\Debug\net6.0\4-ClassesPT1.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\bin\Debug\net6.0\4-ClassesPT1.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.csproj.AssemblyReference.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.AssemblyInfoInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.AssemblyInfo.cs
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.csproj.CoreCompileInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\refint\4-ClassesPT1.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\4-ClassesPT1.genruntimeconfig.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\4-ClassesPT1\obj\Debug\net6.0\ref\4-ClassesPT1.dll

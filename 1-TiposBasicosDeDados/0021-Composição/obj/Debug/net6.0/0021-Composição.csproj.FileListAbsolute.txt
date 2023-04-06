@@ -1,0 +1,15 @@
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\bin\Debug\net6.0\0021-Composição.exe
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\bin\Debug\net6.0\0021-Composição.deps.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\bin\Debug\net6.0\0021-Composição.runtimeconfig.json
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\bin\Debug\net6.0\0021-Composição.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\bin\Debug\net6.0\0021-Composição.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.csproj.AssemblyReference.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.AssemblyInfoInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.AssemblyInfo.cs
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.csproj.CoreCompileInputs.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\refint\0021-Composição.dll
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.pdb
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\0021-Composição.genruntimeconfig.cache
+C:\git\C#-Udemy\1-TiposBasicosDeDados\0021-Composição\obj\Debug\net6.0\ref\0021-Composição.dll
